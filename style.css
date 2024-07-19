@@ -6,10 +6,10 @@ body {
 }
 
 .bg-box {
-    width: 2000px;
-    height: 1000px;
+    width: 1500px;
+    height: 800px;
     background-image: url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru), url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png), url(img/img1.png), url(img/img2.png), url(https://th.bing.com/th/id/OIP.FfamF3648fYbmlHH5sypIAHaFj?rs=1&pid=ImgDetMain);
-    background-size: 120px, 120px, 270px, 110px, 750px, cover;
+    background-size: 120px, 120px, 270px, 110px, 500px, cover;
     background-repeat: repeat-y, repeat-y, repeat-x, repeat-x, no-repeat;
     background-position: left, right, bottom, top, center;
 }
